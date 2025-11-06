@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-    APP_ID = "job-portal-frontend-js24j4" 
+    APP_ID = ""IMQ_282NIredyeqg_1xUk" " 
   }
 
   parameters {
